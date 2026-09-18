@@ -1,5 +1,8 @@
 <p align="center"><img src="vkQuake2.png"></p>
 
+This fork adds a [Scarlet SWS platform adapter](scarlet/README.md). The
+upstream Vulkan renderer and game code remain unchanged.
+
 ### Build status
 [![Linux](https://github.com/kondrak/vkQuake2/actions/workflows/linux.yml/badge.svg)](https://github.com/kondrak/vkQuake2/actions/workflows/linux.yml)
 [![MacOS](https://github.com/kondrak/vkQuake2/actions/workflows/macos.yml/badge.svg)](https://github.com/kondrak/vkQuake2/actions/workflows/macos.yml)
